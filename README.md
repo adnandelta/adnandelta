@@ -5,7 +5,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/05bZNL3vT0toTHJrkC/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const d3lta = {
