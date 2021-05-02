@@ -17,7 +17,7 @@ const d3lta = {
                         hexaVerse: "Open world mobile game",
                         portfolio: "almost done"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ currently learning: "Flutter-Dart"
 }
 ```
 
