@@ -10,8 +10,7 @@
 ```javascript
 const d3lta = {
   code: [Javascript, Dart, HTML, CSS, Ruby, Python, Java, C#,C++],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Redux, Node, Styled-Components, Figma, Docker],
   currentProjects: {
                         CodersNexus: "soacial media platform",
                         hexaVerse: "Open world mobile game",
@@ -21,4 +20,3 @@ const d3lta = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
