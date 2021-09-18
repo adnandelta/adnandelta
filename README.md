@@ -13,7 +13,7 @@ const d3lta = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   currentProjects: {
-                        tindev: "soacial media platform",
+                        CodersNexus: "soacial media platform",
                         hexaVerse: "Open world mobile game",
                         portfolio: "almost done"
                       },
